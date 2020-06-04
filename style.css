@@ -1,0 +1,42 @@
+body {
+  margin: 10px;
+  background-color: #858A94;
+}
+
+/* header */
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #646976;
+}
+
+header h1 {
+  margin-bottom: 3px;
+}
+
+header p {
+  margin-top: 3px;
+  margin-bottom: 6px;
+}
+
+/* images */
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.image-attribution {
+  margin: 1px;
+  font-size: x-small;
+}
+
+/* content */
+
+h2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
