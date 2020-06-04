@@ -1,6 +1,13 @@
 body {
-  margin: 10px;
+  margin: 10px;  
+}
+
+.background-gray {
   background-color: #858A94;
+}
+
+.background-white {
+  background-color: white;
 }
 
 /* header */
