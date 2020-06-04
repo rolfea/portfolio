@@ -1,0 +1,9 @@
+background color details:
+  want to add alternating background effect. 
+  could probably set this to be alternating using JS, but want to try with CSS first
+  manually setting background color seems ok to start
+    background color is interrupted by the body margin
+    attribution text looks awkward - not sure why
+
+contact details
+  use form?
