@@ -1,6 +1,9 @@
-body {
-  margin: 10px;
+.background-gray {
   background-color: #858A94;
+}
+
+.background-white {
+  background-color: white;
 }
 
 /* header */
@@ -28,9 +31,28 @@ img {
   height: auto;
 }
 
+/* show attribution on hover */
+/* 
 .image-attribution {
-  margin: 1px;
+  position: relative;
+  display: inline-block;  
   font-size: x-small;
+}
+
+.image-attribution .attribution-text {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #FFF;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  top: -5px;
+  left: 105%;
+} */
+
+.image-attribution:hover .attribution-text {
+  visibility: visible;
 }
 
 /* content */
@@ -39,4 +61,13 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.content-wrapper {
+  margin: 10px;
+}
+
+.content-row {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
