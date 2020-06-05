@@ -1,9 +1,22 @@
+current TODOs:
+
+can I create a more interesting shape with the background instead of using the hardlines? 
+
+contact details
+  use form?
+
+image attribution
+  struggled for a bit to find a good solution to the attribution problem.
+  I got the hover effect to work, but I don't like how it use the space underneath the image
+  also this doesn't look good on mobile, which should be the first concern, rather than desktop
+
+past todos:
+
 background color details:
   want to add alternating background effect. 
   could probably set this to be alternating using JS, but want to try with CSS first
   manually setting background color seems ok to start
     background color is interrupted by the body margin
     attribution text looks awkward - not sure why
-
-contact details
-  use form?
+    solved this!
+    I set the background color on the row to get the full background and then a child of that row sets the margin and wraps remaining content
