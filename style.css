@@ -71,3 +71,13 @@ h2 {
   padding-top: 5px;
   padding-bottom: 5px;
 }
+
+.about p {
+  margin-top: 4px;
+}
+
+.about-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

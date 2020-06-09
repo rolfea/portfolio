@@ -1,6 +1,6 @@
 current TODOs:
 
-can I create a more interesting shape with the background instead of using the hardlines? 
+can I create a more interesting shape with the background instead of using the hard lines? 
 
 contact details
   use form?
@@ -9,6 +9,22 @@ image attribution
   struggled for a bit to find a good solution to the attribution problem.
   I got the hover effect to work, but I don't like how it use the space underneath the image
   also this doesn't look good on mobile, which should be the first concern, rather than desktop
+
+projects
+  tech stack
+  explain app/business problem
+
+UI
+  Hamburger thing for mobile
+  Different font
+  little icon things for language/tech
+
+about
+coding challenges
+technical writing/blog
+contact section
+
+
 
 past todos:
 
