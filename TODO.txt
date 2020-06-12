@@ -1,9 +1,7 @@
 current TODOs:
 
-icons for About me
-  look at Font Awesome local files for remaining
-
 can I create a more interesting shape with the background instead of using the hard lines? 
+more interesting font
 
 contact details
   use form?
@@ -31,6 +29,8 @@ contact section
 
 past todos:
 
+icons for About me
+  look at Font Awesome local files for remaining
 background color details:
   want to add alternating background effect. 
   could probably set this to be alternating using JS, but want to try with CSS first

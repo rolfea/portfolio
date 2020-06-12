@@ -83,3 +83,15 @@ h2 {
   font-size: 2rem;
   padding-bottom: 10px;
 }
+
+/* contact form */
+#contact {
+  display: flex;
+  flex-wrap: row;
+  justify-content: center;
+}
+
+#contact a {
+  font-size: 1.25rem;
+
+}
